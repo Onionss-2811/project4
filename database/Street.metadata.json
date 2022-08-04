@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"Database_PhongTroVN.Street"}],"uuid":"1df5de24c60c4f46966d3c3ba2ff8eb9"}

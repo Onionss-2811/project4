@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"Database_PhongTroVN.Comment"}],"uuid":"d498be6a7c1c40c98f1aeba826bd7bcb"}
